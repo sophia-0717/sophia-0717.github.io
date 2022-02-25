@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>Data Science &amp; Psychology</description>
+    <link>
+    https://sophia-0717.github.io</link>
+    
+      
+      <item>
+        <title>Python course(2) - Python control-statment</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python course consists of several sections.&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python course(1) - Python basic&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python course(2) - Python control-statement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Thu, 24 Feb 2022 18:00:33 +0900</pubDate>
+        <link>
+        https://sophia-0717.github.io/python-control-statement</link>
+        <guid isPermaLink="true">https://sophia-0717.github.io/python-control-statement</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>psychology 강좌(1) - psychology 기본</title>
+        
+          <description>&lt;p&gt;psychology basic&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 23 Feb 2022 18:03:33 +0900</pubDate>
+        <link>
+        https://sophia-0717.github.io/psychology-basic</link>
+        <guid isPermaLink="true">https://sophia-0717.github.io/psychology-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Python course(1) - Python basic</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python course consists of several sections.&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python course(1) - Python basic&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python course(2) - Python control-statement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Wed, 23 Feb 2022 18:00:33 +0900</pubDate>
+        <link>
+        https://sophia-0717.github.io/python-basic</link>
+        <guid isPermaLink="true">https://sophia-0717.github.io/python-basic</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gettysburg Address</title>
+        
+          <description>&lt;p&gt;Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
+        <link>
+        https://sophia-0717.github.io/gettysburg-address</link>
+        <guid isPermaLink="true">https://sophia-0717.github.io/gettysburg-address</guid>
+      </item>
+      
+    
+  </channel>
+</rss>

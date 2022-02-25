@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://sophia-0717.github.io/author/sonagi/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://sophia-0717.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-02-25T16:45:15+09:00</updated>
+  <id>https://sophia-0717.github.io/author/sonagi/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Sonagi | </title>
+  
+
+  
+    <subtitle>Data Science &amp; Psychology</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Python course(2) - Python control-statment</title>
+      <link href="https://sophia-0717.github.io/python-control-statement" rel="alternate" type="text/html" title="Python course(2) - Python control-statment" />
+      <published>2022-02-24T18:00:33+09:00</published>
+      <updated>2022-02-24T18:00:33+09:00</updated>
+      <id>https://sophia-0717.github.io/python-control-statement</id>
+      <content type="html" xml:base="https://sophia-0717.github.io/python-control-statement">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python course consists of several sections.&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python course(1) - Python basic&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python course(2) - Python control-statement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;python control statement&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Sonagi</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python course consists of several sections. Python course(1) - Python basic Python course(2) - Python control-statement</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">psychology 강좌(1) - psychology 기본</title>
+      <link href="https://sophia-0717.github.io/psychology-basic" rel="alternate" type="text/html" title="psychology 강좌(1) - psychology 기본" />
+      <published>2022-02-23T18:03:33+09:00</published>
+      <updated>2022-02-23T18:03:33+09:00</updated>
+      <id>https://sophia-0717.github.io/psychology-basic</id>
+      <content type="html" xml:base="https://sophia-0717.github.io/psychology-basic">&lt;p&gt;psychology basic&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Sonagi</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="psychology" />
+      
+
+      
+        <summary type="html">psychology basic</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Python course(1) - Python basic</title>
+      <link href="https://sophia-0717.github.io/python-basic" rel="alternate" type="text/html" title="Python course(1) - Python basic" />
+      <published>2022-02-23T18:00:33+09:00</published>
+      <updated>2022-02-23T18:00:33+09:00</updated>
+      <id>https://sophia-0717.github.io/python-basic</id>
+      <content type="html" xml:base="https://sophia-0717.github.io/python-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python course consists of several sections.&lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python course(1) - Python basic&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python course(2) - Python control-statement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;python basic&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Sonagi</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python course consists of several sections. Python course(1) - Python basic Python course(2) - Python control-statement</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

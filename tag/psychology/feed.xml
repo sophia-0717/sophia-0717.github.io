@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://sophia-0717.github.io/tag/psychology/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://sophia-0717.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-02-25T16:45:15+09:00</updated>
+  <id>https://sophia-0717.github.io/tag/psychology/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Sonagi | </title>
+  
+
+  
+    <subtitle>Data Science &amp; Psychology</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">psychology 강좌(1) - psychology 기본</title>
+      <link href="https://sophia-0717.github.io/psychology-basic" rel="alternate" type="text/html" title="psychology 강좌(1) - psychology 기본" />
+      <published>2022-02-23T18:03:33+09:00</published>
+      <updated>2022-02-23T18:03:33+09:00</updated>
+      <id>https://sophia-0717.github.io/psychology-basic</id>
+      <content type="html" xml:base="https://sophia-0717.github.io/psychology-basic">&lt;p&gt;psychology basic&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Sonagi</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="psychology" />
+      
+
+      
+        <summary type="html">psychology basic</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
